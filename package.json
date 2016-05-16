@@ -1,0 +1,25 @@
+{
+  "name": "rsvp",
+  "version": "1.0.0",
+  "description": "A RSVP form 1) auto reply by gmail 2) insert data to google doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "passit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slashtu/rsvp.git"
+  },
+  "keywords": [
+    "rsvp"
+  ],
+  "author": "SlashTu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slashtu/rsvp/issues"
+  },
+  "homepage": "https://github.com/slashtu/rsvp#readme",
+  "dependencies": {
+    "gmail-send": "^1.2.6"
+  }
+}
